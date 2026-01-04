@@ -2,7 +2,7 @@
 This repository contains my Python practice notebooks completed using Google Colab. It covers daily exercises and practice notebooks as part of a 30-day challenge.
 
 ## Contents
-- Variables and Data Types
+- [Day 1 & 2: Variables and Data Types] (variables_and_data_types.ipynb)
 - Operators
 - Input and Output
 - Control Flow
