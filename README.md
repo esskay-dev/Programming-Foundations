@@ -3,3 +3,8 @@ This repository contains my Python practice notebooks completed using Google Col
 
 ## Contents
 - Variables and Data Types
+- Operators
+- Input and Output
+- Control Flow
+- Funtions
+- Data Structures
