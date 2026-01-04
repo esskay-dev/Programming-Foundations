@@ -1,9 +1,5 @@
 # 30-Days-Python-Challenge
-This repository contains my Python practice notebooks completed using Google Colab. 
+This repository contains my Python practice notebooks completed using Google Colab. It covers daily exercises and practice notebooks as part of a 30-day challenge.
 
-Topic covered:
-Variables and data types
-Operators
-Input and Output
-Loops
-Functions
+## Contents
+- Variables and Data Types
