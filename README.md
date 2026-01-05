@@ -1,9 +1,8 @@
 # Foundational Programming for Data Engineering
 This repository contains my Python notebooks completed in Google Colab. It includes daily exercises from my first semester at AltSchool
 
-## Topics
-- [Day 1 & 2: Variables, Data Types, Built-in() functions, & Multiple Variabales
-  ](
+## First Semester - Introduction to Programming
+- [Variables, Data Types, and Control Flow](
 variables_and__data_types.ipynb)
 - Operators
 - Input and Output
