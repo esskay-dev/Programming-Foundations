@@ -1,5 +1,5 @@
 # 30-Days-Python-Challenge
-This repository contains my Python practice notebooks completed using Google Colab. It covers daily exercises and practice notebooks as part of a 30-day challenge.
+This repository contains my Python notebooks completed in Google Colab. It includes daily exercises over 30 days toward my goal of becoming a Data Engineer.
 
 ## Topics
 - [Day 1 & 2: Variables, Data Types, Built-in() functions, & Multiple Variabales
